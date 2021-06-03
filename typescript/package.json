@@ -1,0 +1,32 @@
+{
+  "name": "@sentryware/eslint-config-typescript",
+  "version": "0.1.0",
+  "description": "Sentryware ESLint configuration for TypeScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sentryware/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "sentryware",
+    "typescript"
+  ],
+  "author": "Sentryware LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sentryware/eslint-config/issues"
+  },
+  "homepage": "https://github.com/sentryware/eslint-config/typescript#readme",
+  "dependencies": {
+    "@sentryware/eslint-config-base": "^0.1.0"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">= 4 < 5",
+    "eslint": ">= 7 < 8"
+  }
+}
