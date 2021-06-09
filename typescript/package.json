@@ -1,6 +1,6 @@
 {
   "name": "@sentryware/eslint-config-typescript",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sentryware ESLint configuration for TypeScript projects.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/sentryware/eslint-config/typescript#readme",
   "dependencies": {
-    "@sentryware/eslint-config-base": "^0.1.0"
+    "@sentryware/eslint-config-base": "^0.2.0"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": ">= 4 < 5",
