@@ -1,6 +1,6 @@
 {
   "name": "@sentryware/eslint-config-base",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sentryware base ESLint configuration.",
   "main": "index.js",
   "scripts": {
