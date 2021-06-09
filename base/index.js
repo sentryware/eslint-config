@@ -7,6 +7,6 @@ module.exports = {
         "no-array-constructor": "warn",
 
         // Encourage use of constants where appropriate.
-        "prefer-const": "warn"
+        "prefer-const": "warn",
     }
 }
