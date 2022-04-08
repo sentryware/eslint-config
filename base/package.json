@@ -1,6 +1,6 @@
 {
   "name": "@sentryware/eslint-config-base",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Sentryware base ESLint configuration.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/sentryware/eslint-config/base#readme",
   "peerDependencies": {
-    "eslint": ">= 7 < 8"
+    "eslint": ">= 7 < 9"
   }
 }
